@@ -12,7 +12,7 @@ The API follows REST architectural principles with a versioned base path of ‘/
 
 •	SensorReading: timestamped measurement events recorded by a sensor, exposed as a sub-resource of Sensor.
 
-**Base URL:** `http://localhost:8080/smart-campus-api/api/v1` 
+**Base URL:** `http://localhost:8077/smart-campus-api/api/v1` 
 
 **Context path:** `/smart-campus-api` (as defined in `context.xml`)
 
